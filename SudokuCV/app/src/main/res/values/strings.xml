@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sudoku CV</string>
+    <string name="delete">DEL</string>
+    <string name="solve">Solve</string>
+    <string name="reset">Reset</string>
+    <string name="generate">Generate</string>
+</resources>
